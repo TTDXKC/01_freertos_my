@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "timers.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "time.h": "c",
+        "driver_esp8266.h": "c",
+        "driver_timer.h": "c",
+        "usart.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "oled_driver.h": "c",
+        "oled.h": "c"
+    }
+}
