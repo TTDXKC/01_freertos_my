@@ -279,8 +279,7 @@ void EncoderTask(void *argument)
       
       
       OLED_UpdateArea(0, 32, 128, 32);
-      
-      /
+    
       lastCount = encoderCount;
     }
     
